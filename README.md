@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sanu Marma</h1>
-<h3 align="center">A passionate Software developer</h3>
 
 I am a Software Developer passionate about building scalable and user-focused applications. My core strengths lie in backend development and problem solving, and I also enjoy working across the full stack to deliver reliable and seamless solutions. I am eager to learn Artificial Intelligence (AI) and explore how it can be applied to create innovative software solutions.
 
