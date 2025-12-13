@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanu Marma</h1>
 <h3 align="center">A passionate Software developer</h3>
 
+I am a Software Developer passionate about building scalable and user-focused applications. My core strengths lie in backend development and problem solving, and I also enjoy working across the full stack to deliver reliable and seamless solutions. I am eager to learn Artificial Intelligence (AI) and explore how it can be applied to create innovative software solutions.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanumarma247&label=Profile%20views&color=0e75b6&style=flat" alt="sanumarma247" /> </p>
 
 - 🌱 I’m currently learning **AI/ML Course**
