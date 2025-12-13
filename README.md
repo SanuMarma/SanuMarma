@@ -6,8 +6,6 @@ I am a Software Developer passionate about building scalable and user-focused ap
 
 - 🌱 I’m currently learning **AI/ML Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanumarma247](https://github.com/sanumarma247)
-
 - 📫 How to reach me **sanumarma247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
