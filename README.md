@@ -6,7 +6,7 @@ I am a Software Developer passionate about building scalable and user-focused ap
 
 - 🌱 I’m currently learning **AI/ML Course**
 
-- 📫 How to reach me **sanumarma247@gmail.com**
+- 📫 How to reach me **sanumarma1717@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
